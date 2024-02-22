@@ -1,0 +1,11 @@
+*.npz
+*.pth
+*.pt
+
+*.egg-info/
+
+.idea/*
+logs/*
+*.ckpt
+figures/
+__pycache__/
