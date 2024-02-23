@@ -6,7 +6,7 @@ This is the official PyTorch implementation of T-Stitch: Accelerating Sampling i
 >
 >  Monash University<sup>1</sup>, NVIDIA<sup>2</sup>, University of Wisconsin, Madison<sup>3</sup>, Caltech<sup>4</sup>
 >
->  [[Paper]()] [[Project Page](https://t-stitch.github.io/)]
+>  [[Paper](https://arxiv.org/abs/2402.14167)] [[Project Page](https://t-stitch.github.io/)]
 
 
 
